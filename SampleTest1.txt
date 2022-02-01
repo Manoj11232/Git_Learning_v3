@@ -1,3 +1,0 @@
-This is test Git Revert
-Commit 1
-
