@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is sample file 1 
 
 THis is a test chek for sample file to make sure all changes are in tact
 
+=======
+This is sample file 1 
+This is comparision lecture
+>>>>>>> main
